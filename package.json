@@ -1,0 +1,18 @@
+{
+  "name": "First",
+  "version": "1.0.0",
+  "description": "npx tailwindcss-cli build css/tailwind.css -o build/tailwind.css",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.3",
+    "vite": "^2.1.1"
+  }
+}
